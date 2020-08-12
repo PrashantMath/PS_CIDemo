@@ -229,7 +229,7 @@ void RTE(void)
     Unreachable_Code();
 
 }
-
+printf(" \n ");
 /* polyspace:end<MISRA-C:5.7:Not a defect:No Action planned> The reused names in this function actual seem to be appropriate uses of scoping */
 
 /* polyspace:end<MISRA-C3:D4.6:High:Fix>  Add a types.h file, create typedefs and replace inbuilt types  */
